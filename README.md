@@ -43,6 +43,7 @@ V1/V2 = e [ -a (L1+L2 ) ]
 |------------------|---------------------|------------------------|
 |      3cm         |        10v          |     3.6v               |
 |      4cm         |        10v          |     3.6v               |
+
 ![WhatsApp Image 2025-11-17 at 04 14 57_2dd331d5](https://github.com/user-attachments/assets/6840fd79-096a-4cbe-9d51-14d2c609eeff)
 
 
